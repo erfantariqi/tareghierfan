@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tareghie-3.portal.ir	TRUE	/	FALSE	1999999999	stats	TdG9Non4Q0muQN2onezNTw%3D%3D
+tareghie-3.portal.ir	TRUE	/	FALSE	1999999999	compare	156009996
+
